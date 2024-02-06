@@ -147,4 +147,12 @@ export const styles = StyleSheet.create({
     width: 150,
     height: 150,
   },
+  openBtn: {
+    padding: 8,
+    backgroundColor: '#0065FC',
+  },
+  openBtnText: {
+    fontSize: 20,
+    color: 'white',
+  },
 });
